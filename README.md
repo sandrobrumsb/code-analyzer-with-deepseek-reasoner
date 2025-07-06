@@ -1,12 +1,9 @@
-# 🤖 Anotações e Comparações de Análises de APIs DeepSeek & OpenAI.
+# 📁🤖 Projeto: Exemplo simples de ferramenta em IA para compreensão e raciocínio sobre código-fonte.
 ---
 
-## 📁 Projeto:
+### 🔍 `O que ele faz:`
 
-### 🔍 `analyzer_code_exemple.py`
-
-**O que ele faz:**  
-O código a ser analisado é carregado de um arquivo `.csv`.
+O Realiza a analise de um código que é carregado de um arquivo `.csv`.
 
 Este script envia um código para o modelo `deepseek-reasoner` com o objetivo de **melhorar sua qualidade**. Ele realiza:
 
@@ -35,6 +32,5 @@ pip install -r requirements.txt
 
 - Arquivo `.env` com suas chaves de API:
   ```env
-  OPENAI_API_KEY=your_openai_key_here
-  DEEPSEEK_API_KEY=your_deepseek_key_here
+  DEEPSEEK_API_KEY='sua_chave_deepseek_aqui'
 ---
