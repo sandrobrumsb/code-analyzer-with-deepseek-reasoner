@@ -1,0 +1,19 @@
+def calcular_media(notas):
+media = sum(notas) / len(notas)
+print("Média:",media)
+return media
+
+notas_aluno = [7, 8, 9, 6, 10]
+media = calcular_media(notas_aluno)
+
+if media > 7:
+print("Aluno aprovado")
+else:
+ print("Aluno reprovado")
+
+def funcao_sem_nome(): # função inútil que não faz nada
+    pass
+
+x= 10
+ y =20
+print(x+y)
