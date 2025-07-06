@@ -25,7 +25,7 @@ Siga os passos abaixo para executar qualquer um dos projetos deste repositório:
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/seu-usuario/nome-do-repo.git
+git clone https://github.com/sandrobrumsb/code-analyzer-with-deepseek-reasoner.git
 ```
 ### 2. Instale as 📚 Bibliotecas:
 ```bash
