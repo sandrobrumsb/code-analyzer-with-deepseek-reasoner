@@ -30,7 +30,7 @@ pip install -r requirements.txt
 ```
 ### 3. 📦 Crie o Arquivo `.env`:
 
-- Arquivo `.env` com suas chaves de API:
+- Adicione no arquivo `.env` com suas chaves de API:
   ```env
   DEEPSEEK_API_KEY='sua_chave_deepseek_aqui'
 ---
